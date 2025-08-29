@@ -36,8 +36,8 @@ This dashboard effectively visualizes sales distribution by category and geograp
 - Dashboard created by Faith Ihueze **Sample Practice Work**
 - Maintained for analysis and educational purposes
 
- <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ec89555-2ef4-4100-bd75-dd5d340ba968" />    07030834411
- 07030834411
+https://wa.me/07030834411
+ 
 
 
 
